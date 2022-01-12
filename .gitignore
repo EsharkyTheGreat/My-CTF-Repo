@@ -5,3 +5,4 @@ cybersanta-21/toy_workshop/web_toy_workshop/challenge/node_modules/
 hitcon-21/
 *.i64
 .gdb_history
+*.idb
